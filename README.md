@@ -5,7 +5,7 @@
 - I'm interested in web development,Ai and Accounting.
 - I'm looking to collaborate on beginner-friendly open source projects for now and other major projects with time
 
-> Skills I'm Building
+>🌱 Skills I'm Building
 - Git and GitHub
 - Add others, e.g., "Javascripting", "HTML/CSS", "React"$"mysql"
 
