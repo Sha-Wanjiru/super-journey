@@ -1,11 +1,44 @@
-<h1>My Learning Goals</h1>
-<ul>To**understand**the basics of*web dev*.</ul>
-<ul>Be conversant with the modern tooling </ul>
-<ul>Get to understand back end intergration</ul>
+## Heading Level Two
+<h1>My learning Goals</h1>
 
-<h2>This Semester</h2>
+###Heading Level Three
+<h2> This Semester</h2>
 
+**2** *Text Formating*
+A **Computer** is a *Machine*that <ins>processes</ins> information
 
+**3** *Links*
+https://github.com/Sha-Wanjiru/super-journey
 
+**4** *Lists*
+# unordered lists 
+ -react
+-javascript
+-Mysql
 
+# Ordered List
+1.view your changes
+2.Stage your files
+3.commit the changes
+
+##Table
+
+| Tool    |  Purpose  | Link     |
+|---------|-----------|----------|
+| icons   |images     |icons.com |
+|calc     |calculation| cal.com  |
+
+##Task List
+- [x] React
+- [ ] Javascript
+- [ ] Css
+
+##code blocks
+```python
+print("Bonjour le monde")
+```
+(French)
+
+# Block quote
+>Patience pays😉 <
 
