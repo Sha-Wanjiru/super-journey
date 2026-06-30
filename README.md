@@ -1,4 +1,4 @@
- Hi, I'm Sharnel Wanjiru
+ Hi 👋 ,I'm Sharnel Wanjiru
 
 > About Me
 - I'm currently learning Wed development at Tucode Training centre.
